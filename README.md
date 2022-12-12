@@ -1,4 +1,4 @@
-#  Bitcoin Cryptocurrency Prices Data-Visulization
+#  Bitcoin Cryptocurrency Prices Data-Visualization
 This Pyhthon and data Science project is all about analyzing and visualization of Bitcoin Cryptocurrency Prices over the years. 
 
 -Extracted live data from yahoo finance and compared it with past data to make future predictions, resulting in an accuracy rate of 95%.
